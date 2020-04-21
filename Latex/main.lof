@@ -1,0 +1,9 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces $f_i(x)= x^2 + 1 +2x,\eta = 0.01, nodes = 5$ }}{9}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces X1 for $f_i(x)= x_1^2 + 4x_2 + 1 - 2x_1 - 4x_2 +4x_1x_2 , \eta = 0.01, nodes = 4$}}{10}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces X2 for $f_i(x)= x_1^2 + 4x_2 + 1 - 2x_1 - 4x_2 +4x_1x_2 , \eta = 0.01, nodes = 4$}}{10}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces $y = Ax + B, A = X1 , B = X2$, iterations = 1000, agents = 5}}{13}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces difference between cost functions, iterations = 1000, agents = 5}}{13}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces consensus using the first $WW$, iterations = 600, agents = 5}}{16}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces consensus with Metropolis $WW$, iterations = 600, agents = 5}}{16}
